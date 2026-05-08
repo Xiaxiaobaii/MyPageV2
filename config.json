@@ -1,0 +1,16 @@
+{
+    "Debug": false,
+    "IPV6": true,
+    "CanR18": 0,
+    "HTML": true,
+    "tls": false,
+    "indexHtmlPath": "/root/server/web/index.html",
+    "TlsPem": "/root/server/web/lyxnxia.space.pem",
+    "TlsKey": "/root/server/web/lyxnxia.space.pem",
+    "AppConfig": {
+        "Chmlfrp": {
+            "version": "10025",
+            "downloadUrl": "/Fils/shizChmlfrp"
+        }
+    }
+}

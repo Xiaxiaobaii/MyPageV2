@@ -1,0 +1,17 @@
+.cache/
+
+.idea/
+
+.vscode/
+
+dist/
+
+public/
+
+scripts/
+
+.codex
+
+.hintrc
+
+build.sh
